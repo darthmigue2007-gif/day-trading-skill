@@ -14,6 +14,13 @@
 6. Revisión dos veces por día de mercado (12:41 y 15:41 hora de Nueva York).
 7. El 2026-12-02 a las 15:41 ET se cierran todas las posiciones del reto y se hace el informe final.
 
+## Objetivo y criterio de éxito
+El usuario planteó 1000 € (+900 %) como meta; se descartó por requerir apuestas sin control de riesgo.
+Se eligió **medir si el sistema tiene ventaja** antes de usar dinero real. Al final se evaluará:
+- Resultado neto (≥ 0 tras las operaciones), drawdown máximo (≤ 10 %), y que **todas** las operaciones respetaron stop y riesgo ≤ 2 %.
+- Nº de operaciones, % de aciertos y R medio (ganancia media / pérdida media).
+- 2 semanas es una muestra pequeña: un buen resultado justificaría ampliar el periodo de prueba en paper, no saltar directamente a real.
+
 ## Operaciones
 
 | # | Fecha (ET) | Símbolo | Lado | Cant. | Entrada | Stop | Objetivo | Salida | P/L $ | Estado | Motivo |
