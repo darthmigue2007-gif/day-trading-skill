@@ -41,9 +41,11 @@
 | Fecha | Efectivo $ | Valor posiciones $ | Total $ | Total € (aprox.) | Notas |
 |-------|-----------:|-------------------:|--------:|-----------------:|-------|
 | 2026-11-18 | 26,68 | 88,32 | 115,00 | 100,00 | Apertura T |
+| 2026-11-18 12:41 | 26,68 | 88,36 | 115,04 | 100,03 | Revisión: T 22,09, sin cambios |
 
 ### Diario
 - **2026-11-18:** Mercado en corrección (SPY 779 → 728 en 3 semanas). Se evita perseguir rebotes en valores bajistas (INTC, SOFI, F, BAC). Entrada defensiva en T por fuerza relativa.
+- **2026-11-18 12:41 ET:** T 22,09 (+0,04 $); stop 21,50 y objetivo 23,10 activos, lejos de +1R (22,66) para mover a break-even. SPY rebota ligeramente (731). Efectivo libre 26,68 $: insuficiente para otra entrada con stop técnico y tamaño útil; no se opera.
 
 ---
 
