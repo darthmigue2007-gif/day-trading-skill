@@ -46,6 +46,7 @@
 | 2026-11-19 12:41 | 26,68 | 86,86 | 113,54 | 98,73 | Revisión: T 21,71, sin cambios |
 | 2026-11-19 15:41 | 26,68 | 86,86 | 113,54 | 98,73 | Revisión: T 21,72, sin cambios |
 | 2026-11-20 12:41 | 26,68 | 90,56 | 117,24 | 101,95 | T 22,64; stop a break-even |
+| 2026-11-20 15:41 | 26,68 | 89,40 | 116,08 | 100,94 | T 22,35, sin cambios |
 
 ### Diario
 - **2026-11-18:** Mercado en corrección (SPY 779 → 728 en 3 semanas). Se evita perseguir rebotes en valores bajistas (INTC, SOFI, F, BAC). Entrada defensiva en T por fuerza relativa.
@@ -54,6 +55,7 @@
 - **2026-11-19 12:41 ET:** Sesión bajista con mucha amplitud: SPY abrió 737,5, cayó a 717,5 y cotiza 723 (-1 %). T 21,71 (-1,46 $, -0,63R); mínimo del día 21,53, a 3 céntimos del stop 21,50. No se toca el stop (la regla prohíbe bajarlo y el soporte sigue siendo 21,50-21,65). Con el mercado en caída no hay setups largos de calidad; no se opera con el efectivo libre.
 - **2026-11-19 15:41 ET:** SPY sigue cayendo hasta 717 (-1,8 % en el día, mínimo 715,7; ~-8 % desde máximos de octubre). T aguanta en 21,72, con fuerza relativa clara frente al índice; el soporte 21,53 resistió. Posición y órdenes sin cambios. Sin nuevas entradas: no se compran caídas de un mercado en tendencia bajista.
 - **2026-11-20 12:41 ET:** T sube +3,6 % en el día hasta 22,64 (máx. 22,68), alcanzando +1R (22,66) mientras SPY se desploma a 700 (-2,2 %, ~-10 % desde máximos): fuerza relativa confirmada. Stop subido de 21,50 a 22,08 (break-even; nueva orden 7801a97b). La operación ya no puede perder. Objetivo 23,10 intacto. Sin nuevas entradas con el índice en caída libre.
+- **2026-11-20 15:41 ET:** SPY cierra la semana en mínimos (690,8, -3,5 % en el día; ~-11 % desde máximos). T recorta a 22,35 pero mantiene +2,3 % en el día. Stop en break-even (22,08) y objetivo 23,10 activos durante el fin de semana. Riesgo de gap bajista el lunes: si abre por debajo de 22,08, el stop ejecutará a mercado con una pequeña pérdida posible. Sin nuevas entradas.
 
 ---
 
