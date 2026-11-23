@@ -34,7 +34,7 @@
 
 | # | Fecha (ET) | Símbolo | Lado | Cant. | Entrada | Stop | Objetivo | Salida | P/L $ | Estado | Motivo |
 |---|-----------|---------|------|------:|--------:|-----:|---------:|-------:|------:|--------|--------|
-| 1 | 2026-11-18 11:46 | T | Long | 4 | 22,08 | 21,50 → **22,08** (BE, 20-nov) | 23,10 | — | — | Abierta | Fuerza relativa: mínimos crecientes desde 20,85 mientras SPY cae ~6,5 %; soporte 21,50-21,65. Riesgo 2,32 $ / objetivo +4,08 $ |
+| 1 | 2026-11-18 11:46 | T | Long | 4 | 22,08 | 21,50 → **22,08** (BE, 20-nov) | 23,10 | 22,19 (23-nov 09:35, stop) | **+0,44** (+0,19R) | Cerrada | Fuerza relativa: mínimos crecientes desde 20,85 mientras SPY cae ~6,5 %; soporte 21,50-21,65. Riesgo 2,32 $ / objetivo +4,08 $ |
 
 ### Estado del capital
 
@@ -47,6 +47,7 @@
 | 2026-11-19 15:41 | 26,68 | 86,86 | 113,54 | 98,73 | Revisión: T 21,72, sin cambios |
 | 2026-11-20 12:41 | 26,68 | 90,56 | 117,24 | 101,95 | T 22,64; stop a break-even |
 | 2026-11-20 15:41 | 26,68 | 89,40 | 116,08 | 100,94 | T 22,35, sin cambios |
+| 2026-11-23 12:41 | 115,44 | 0,00 | 115,44 | 100,38 | T cerrada por stop BE (+0,44 $); 100 % en efectivo |
 
 ### Diario
 - **2026-11-18:** Mercado en corrección (SPY 779 → 728 en 3 semanas). Se evita perseguir rebotes en valores bajistas (INTC, SOFI, F, BAC). Entrada defensiva en T por fuerza relativa.
@@ -56,6 +57,7 @@
 - **2026-11-19 15:41 ET:** SPY sigue cayendo hasta 717 (-1,8 % en el día, mínimo 715,7; ~-8 % desde máximos de octubre). T aguanta en 21,72, con fuerza relativa clara frente al índice; el soporte 21,53 resistió. Posición y órdenes sin cambios. Sin nuevas entradas: no se compran caídas de un mercado en tendencia bajista.
 - **2026-11-20 12:41 ET:** T sube +3,6 % en el día hasta 22,64 (máx. 22,68), alcanzando +1R (22,66) mientras SPY se desploma a 700 (-2,2 %, ~-10 % desde máximos): fuerza relativa confirmada. Stop subido de 21,50 a 22,08 (break-even; nueva orden 7801a97b). La operación ya no puede perder. Objetivo 23,10 intacto. Sin nuevas entradas con el índice en caída libre.
 - **2026-11-20 15:41 ET:** SPY cierra la semana en mínimos (690,8, -3,5 % en el día; ~-11 % desde máximos). T recorta a 22,35 pero mantiene +2,3 % en el día. Stop en break-even (22,08) y objetivo 23,10 activos durante el fin de semana. Riesgo de gap bajista el lunes: si abre por debajo de 22,08, el stop ejecutará a mercado con una pequeña pérdida posible. Sin nuevas entradas.
+- **2026-11-23 12:41 ET:** El stop break-even de T se ejecutó a las 09:35 ET a 22,19 (por encima del stop 22,08). **Operación #1 cerrada: +0,44 $ (+0,19R).** SPY abrió con gap alcista de +4,9 % (690,7 → 724,3) y rebota a 721,9 tras tocar 713,6; T queda rezagado (22,12) al rotar el dinero de defensivos a riesgo. Capital de la fase: 115,44 $ en efectivo. No se entra: comprar tras un gap de +5 % en un mercado aún bajista no ofrece stop técnico cercano ni ratio 2:1 limpio. Se esperará a ver si el rebote forma un mínimo más alto (pullback que respete 713) para buscar entrada.
 
 ---
 
