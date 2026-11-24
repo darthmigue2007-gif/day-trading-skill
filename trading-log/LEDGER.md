@@ -51,6 +51,7 @@
 | 2026-11-23 12:41 | 115,44 | 0,00 | 115,44 | 100,38 | T cerrada por stop BE (+0,44 $); 100 % en efectivo |
 | 2026-11-23 15:41 | 115,44 | 0,00 | 115,44 | 100,38 | Orden bracket F enviada (pendiente) |
 | 2026-11-24 12:41 | 22,74 | 95,76 | 118,50 | 103,04 | F 11,97 (+3,06 $); stop a break-even |
+| 2026-11-24 15:41 | 22,74 | 95,16 | 117,90 | 102,52 | F 11,90 (+2,46 $), sin cambios |
 
 ### Diario
 - **2026-11-18:** Mercado en corrección (SPY 779 → 728 en 3 semanas). Se evita perseguir rebotes en valores bajistas (INTC, SOFI, F, BAC). Entrada defensiva en T por fuerza relativa.
@@ -63,6 +64,7 @@
 - **2026-11-23 12:41 ET:** El stop break-even de T se ejecutó a las 09:35 ET a 22,19 (por encima del stop 22,08). **Operación #1 cerrada: +0,44 $ (+0,19R).** SPY abrió con gap alcista de +4,9 % (690,7 → 724,3) y rebota a 721,9 tras tocar 713,6; T queda rezagado (22,12) al rotar el dinero de defensivos a riesgo. Capital de la fase: 115,44 $ en efectivo. No se entra: comprar tras un gap de +5 % en un mercado aún bajista no ofrece stop técnico cercano ni ratio 2:1 limpio. Se esperará a ver si el rebote forma un mínimo más alto (pullback que respete 713) para buscar entrada.
 - **2026-11-23 15:41 ET:** SPY consolida el giro: cierra 724,7 tras defender 713,6 (rango alto del día). Se prepara la operación #2 en F (bracket 8 acc., límite 11,66, stop 11,38, objetivo 12,20). **Incidencia:** el proceso se reinició durante la revisión y la orden llegó a Alpaca a las 17:06 ET, con el mercado ya cerrado; queda en espera para la apertura del 24-nov. Si F abre con hueco bajista por debajo de 11,38, la entrada y el stop se ejecutarían casi a la vez con una pérdida pequeña; si abre por encima de 11,66, no entra. Se revisará a las 12:41 ET.
 - **2026-11-24 12:41 ET:** F entró en la apertura a 11,5875 (mejor que el límite 11,66). R = 0,2075 $/acc. Sube a 11,97 (+3,06 $, +1,8R) con el mercado plano (SPY 719,8, -0,4 %): fuerza relativa. Stop subido de 11,38 a 11,59 (break-even; nueva orden 4d544576). Objetivo 12,20 intacto. Efectivo libre 22,74 $: insuficiente para otra entrada útil.
+- **2026-11-24 15:41 ET:** F cierra cerca de máximos (11,90; máx. 11,995) mientras SPY cede a 716,5 (-0,8 %). Stop BE 11,59 y objetivo 12,20 activos. Sin cambios ni nuevas entradas.
 
 ---
 
