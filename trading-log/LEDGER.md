@@ -66,6 +66,7 @@
 - **2026-11-24 12:41 ET:** F entró en la apertura a 11,5875 (mejor que el límite 11,66). R = 0,2075 $/acc. Sube a 11,97 (+3,06 $, +1,8R) con el mercado plano (SPY 719,8, -0,4 %): fuerza relativa. Stop subido de 11,38 a 11,59 (break-even; nueva orden 4d544576). Objetivo 12,20 intacto. Efectivo libre 22,74 $: insuficiente para otra entrada útil.
 - **2026-11-24 15:41 ET:** F cierra cerca de máximos (11,90; máx. 11,995) mientras SPY cede a 716,5 (-0,8 %). Stop BE 11,59 y objetivo 12,20 activos. Sin cambios ni nuevas entradas.
 - **2026-11-25 12:41 ET:** ⚠️ Revisión no realizada: el conector de Alpaca rechazó la sesión (requiere volver a iniciar sesión). No se pudo consultar ni operar. La posición F sigue protegida en el servidor de Alpaca con stop 11,59 (break-even) y objetivo 12,20, que se ejecutan aunque no haya revisión.
+- **2026-11-25 15:41 ET:** ⚠️ Segunda revisión sin acceso: Alpaca sigue requiriendo nuevo inicio de sesión. Sin operar; órdenes de F (stop 11,59 / objetivo 12,20) activas en el servidor.
 
 ---
 
