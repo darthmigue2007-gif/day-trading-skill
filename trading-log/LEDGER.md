@@ -35,7 +35,7 @@
 | # | Fecha (ET) | Símbolo | Lado | Cant. | Entrada | Stop | Objetivo | Salida | P/L $ | Estado | Motivo |
 |---|-----------|---------|------|------:|--------:|-----:|---------:|-------:|------:|--------|--------|
 | 1 | 2026-11-18 11:46 | T | Long | 4 | 22,08 | 21,50 → **22,08** (BE, 20-nov) | 23,10 | 22,19 (23-nov 09:35, stop) | **+0,44** (+0,19R) | Cerrada | Fuerza relativa: mínimos crecientes desde 20,85 mientras SPY cae ~6,5 %; soporte 21,50-21,65. Riesgo 2,32 $ / objetivo +4,08 $ |
-| 2 | 2026-11-24 09:34 | F | Long | 8 | 11,5875 | 11,38 → **11,59** (BE, 24-nov) | 12,20 | — | — | Abierta | Giro del mercado: SPY defiende 713,6 y cierra +4,9 % cerca de máximos; F rebota desde 11,135 con mínimo más alto y cierra en máximos del día. Stop bajo el mínimo del día (11,39). Riesgo 2,24 $ (1,9 %) / objetivo +4,32 $ (1,9R; resistencia previa 12,2-12,3) |
+| 2 | 2026-11-24 09:34 | F | Long | 8 | 11,5875 | 11,38 → **11,59** (BE, 24-nov) | 12,20 | 12,20 (25-nov 14:10, objetivo) | **+4,90** (+2,95R) | Cerrada | Giro del mercado: SPY defiende 713,6 y cierra +4,9 % cerca de máximos; F rebota desde 11,135 con mínimo más alto y cierra en máximos del día. Stop bajo el mínimo del día (11,39). Riesgo 2,24 $ (1,9 %) / objetivo +4,32 $ (1,9R; resistencia previa 12,2-12,3) |
 
 ### Estado del capital
 
@@ -52,6 +52,7 @@
 | 2026-11-23 15:41 | 115,44 | 0,00 | 115,44 | 100,38 | Orden bracket F enviada (pendiente) |
 | 2026-11-24 12:41 | 22,74 | 95,76 | 118,50 | 103,04 | F 11,97 (+3,06 $); stop a break-even |
 | 2026-11-24 15:41 | 22,74 | 95,16 | 117,90 | 102,52 | F 11,90 (+2,46 $), sin cambios |
+| 2026-11-26 | 120,28 | 0,00 | 120,28 | 104,59 | F cerrada en objetivo (+4,90 $). Neto tras comisiones regulatorias (~0,06 $), según saldo de Alpaca: +5,28 $ |
 
 ### Diario
 - **2026-11-18:** Mercado en corrección (SPY 779 → 728 en 3 semanas). Se evita perseguir rebotes en valores bajistas (INTC, SOFI, F, BAC). Entrada defensiva en T por fuerza relativa.
@@ -67,6 +68,7 @@
 - **2026-11-24 15:41 ET:** F cierra cerca de máximos (11,90; máx. 11,995) mientras SPY cede a 716,5 (-0,8 %). Stop BE 11,59 y objetivo 12,20 activos. Sin cambios ni nuevas entradas.
 - **2026-11-25 12:41 ET:** ⚠️ Revisión no realizada: el conector de Alpaca rechazó la sesión (requiere volver a iniciar sesión). No se pudo consultar ni operar. La posición F sigue protegida en el servidor de Alpaca con stop 11,59 (break-even) y objetivo 12,20, que se ejecutan aunque no haya revisión.
 - **2026-11-25 15:41 ET:** ⚠️ Segunda revisión sin acceso: Alpaca sigue requiriendo nuevo inicio de sesión. Sin operar; órdenes de F (stop 11,59 / objetivo 12,20) activas en el servidor.
+- **2026-11-26 (Acción de Gracias, mercado cerrado):** conexión con Alpaca restablecida. Se comprueba que el **objetivo de F se ejecutó el 25-nov a las 14:10 ET a 12,20: operación #2 cerrada con +4,90 $ (+2,95R)**; el stop quedó cancelado automáticamente. Balance de la fase: 2 operaciones, 2 ganadoras (+0,19R y +2,95R), capital 120,28 $ (≈104,59 €, +4,6 %), drawdown máximo 1,3 % (19-nov). Todo en efectivo. Próxima sesión: viernes 27-nov, media jornada (cierra 13:00 ET).
 
 ---
 
