@@ -70,6 +70,7 @@
 - **2026-11-25 15:41 ET:** ⚠️ Segunda revisión sin acceso: Alpaca sigue requiriendo nuevo inicio de sesión. Sin operar; órdenes de F (stop 11,59 / objetivo 12,20) activas en el servidor.
 - **2026-11-26 (Acción de Gracias, mercado cerrado):** conexión con Alpaca restablecida. Se comprueba que el **objetivo de F se ejecutó el 25-nov a las 14:10 ET a 12,20: operación #2 cerrada con +4,90 $ (+2,95R)**; el stop quedó cancelado automáticamente. Balance de la fase: 2 operaciones, 2 ganadoras (+0,19R y +2,95R), capital 120,28 $ (≈104,59 €, +4,6 %), drawdown máximo 1,3 % (19-nov). Todo en efectivo. Próxima sesión: viernes 27-nov, media jornada (cierra 13:00 ET).
 - **2026-11-26 12:41 ET:** Festivo (Acción de Gracias), mercado cerrado. Sin operaciones.
+- **2026-11-27 12:42 ET:** Media sesión post-Acción de Gracias (cierre 13:00 ET, a 18 min). Sin posiciones. No se abre nada: liquidez muy baja y sin tiempo para gestionar la operación antes de un fin de semana. Capital 120,28 $.
 
 ---
 
